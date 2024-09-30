@@ -12,9 +12,11 @@
 
 ## 📫 Find me at
 
-<div style="display: flex; align-items: center; margin-bottom: 8px; gap: 5px;">
-  <img src="/images/envelope-closed-svgrepo-com.svg" alt="Email" height="20"> <strong>josearpaiaquintero@gmail.com</strong>
+<div style="display: flex; align-items: center; margin-bottom: 8px;">
+  <img src="/images/envelope-closed-svgrepo-com.svg" alt="Email" height="20" style="margin-right: 8px;">
+  <strong>josearpaiaquintero@gmail.com</strong>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 8px; gap: 5px;">
-  <img src="/images/linkedin-svgrepo-com.svg" alt="LinkedIn" height="20"> <a href="https://www.linkedin.com/in/josearpaia/">Go to my LinkedIn profile</a>
+<div style="display: flex; align-items: center;">
+  <img src="/images/linkedin-svgrepo-com.svg" alt="LinkedIn" height="20" style="margin-right: 8px;">
+  <a href="https://www.linkedin.com/in/josearpaia/" target="_blank" style="text-decoration: none;">Go to my LinkedIn profile</a>
 </div>
